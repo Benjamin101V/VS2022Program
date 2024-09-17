@@ -1,1 +1,1 @@
-The training after the coder became a frashman.
+在VS2022上的项目训练
