@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2024_C_training\\Number_guess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E235FFFC-BD5A-4077-A208-D40E3DC5CC65}|Number_guess\\Number_guess.vcxproj|E:\\2024_C_training\\Number_guess\\Number_guess\\Number_guess.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E235FFFC-BD5A-4077-A208-D40E3DC5CC65}|Number_guess\\Number_guess.vcxproj|solutionrelative:Number_guess\\Number_guess.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 62,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Number_guess.c",
+              "DocumentMoniker": "E:\\2024_C_training\\Number_guess\\Number_guess\\Number_guess.c",
+              "RelativeDocumentMoniker": "Number_guess\\Number_guess.c",
+              "ToolTip": "E:\\2024_C_training\\Number_guess\\Number_guess\\Number_guess.c",
+              "RelativeToolTip": "Number_guess\\Number_guess.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-03T02:51:28.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
